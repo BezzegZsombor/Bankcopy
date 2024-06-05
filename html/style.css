@@ -1,6 +1,7 @@
 body{
     color: black;  
     background-color: wheat;
+    
 
 }
 h1{
@@ -8,11 +9,22 @@ h1{
     background-color: black;
     line-height: 50px;
     color:burlywood;
+    font-variant-caps: small-caps;
 }
 h2{
+    color:peru;
+    text-decoration: dashed underline;
 
 }
 
-p{
-    text-indent: 15px;
-}  
+h3{
+    text-decoration: dashed underline;
+    color:teal;
+
+}
+footer{
+line-height: 50px;  
+font-size: 25px;  
+font-variant-caps:small-caps;
+text-decoration: double underline;
+}
