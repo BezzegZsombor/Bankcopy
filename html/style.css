@@ -1,6 +1,7 @@
 body{
     color: black;  
     background-color: wheat;
+    font-size: 20px;
     
 
 }
@@ -32,4 +33,10 @@ a:hover{
     background-color: white;
     color: black;
     text-decoration: none;
+}
+
+
+#kep{
+  background-position-x: center;
+  background-position-y: center;  
 }
